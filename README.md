@@ -1,4 +1,5 @@
 # corine-gee-functions
+
 A set of functions for querying CORINE Land Cover Classification of an OpenStreetMap city name input. The functions are complementary to the "geemap" and "ee" and are contingent upon the user having a Google Earth Engine Authentication on their device (open-source).
 
 
